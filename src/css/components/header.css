@@ -15,6 +15,7 @@
 .h2-like {
   font-size: var(--fontSizeTiny);
   font-weight: var(--lightFont);
+  border-bottom: var(--smallSpacer);
 }
 
 .h1-like {
