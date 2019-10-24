@@ -1,11 +1,17 @@
 :root {
   --backgroundColor: #f9d2cb;
+  --backgroundColorGreen: #a3f4dc;
   --font: roboto, sans-serif;
+  --font2: cabin, sans-serif;
   --lightFont: 300;
   --boldFont: 700;
   --fontSizeTiny: 1.2rem;
   --fontSizeSmall: 1.8rem;
   --fontSizeMedium: 2.1rem;
+  --fontSizeMediumLarge: 2.4rem;
   --fontSizeLarge: 2.6rem;
   --smallSpacer: 1.2rem;
+  --mediumSpacer: 3rem;
+  --whiteColor: white;
+  --greyColor: #9c9c9c;
 }

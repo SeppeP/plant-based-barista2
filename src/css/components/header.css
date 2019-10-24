@@ -1,7 +1,6 @@
 @import '../vars.css';
 
 .header {
-  background-color: var(--backgroundColor);
   background-image: url(../../assets/img/plan-based-coffee.png);
   background-repeat: no-repeat;
   background-position: 90%;

@@ -13,3 +13,7 @@ html {
 }
 
 /* stylelint-enable */
+
+.highlight {
+  background-color: var(--backgroundColor);
+}

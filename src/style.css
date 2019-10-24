@@ -4,4 +4,5 @@
 
 /* components */
 @import './css/components/header.css';
+@import './css/components/pricelist.css';
 @import './css/components/order.css';
