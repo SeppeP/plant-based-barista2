@@ -2,4 +2,26 @@
 
 .header {
   background-color: var(--backgroundColor);
+  background-image: url(../../assets/img/plan-based-coffee.png);
+  background-repeat: no-repeat;
+  background-position: 90%;
+  height: 13.6rem;
+}
+
+.header__titles {
+  padding: 3rem 14.4rem 3rem 3rem;
+}
+
+.h2-like {
+  font-size: var(--fontSizeTiny);
+  font-weight: var(--lightFont);
+}
+
+.h1-like {
+  font-size: var(--fontSizeLarge);
+  font-weight: var(--boldFont);
+
+  &::after {
+    content: ' 🌱';
+  }
 }

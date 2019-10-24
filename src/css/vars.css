@@ -1,3 +1,10 @@
 :root {
   --backgroundColor: #f9d2cb;
+  --font: roboto, sans-serif;
+  --lightFont: 300;
+  --boldFont: 700;
+  --fontSizeTiny: 1.2rem;
+  --fontSizeSmall: 1.8rem;
+  --fontSizeMedium: 2.1rem;
+  --fontSizeLarge: 2.6rem;
 }
