@@ -2,6 +2,11 @@ html {
   box-sizing: border-box;
   font-size: 62.5%;
   font-family: var(--font);
+  height: 100%;
+}
+
+body {
+  height: 100%;
 }
 
 /* stylelint-disable */
