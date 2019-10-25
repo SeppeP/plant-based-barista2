@@ -1,0 +1,10 @@
+@import './css/reset.css';
+@import 'vars.css';
+@import './css/base.css';
+
+/* components */
+
+@import './css/components/header.css';
+@import './css/components/pricelist.css';
+@import './css/components/order.css';
+@import './css/layout.css';

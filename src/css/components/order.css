@@ -1,0 +1,33 @@
+@import '../vars.css';
+
+.content {
+  width: 87%;
+  margin: var(--mediumSpacer) auto;
+}
+
+.title_mini {
+  font-weight: var(--lightFont);
+  font-size: var(--fontSizeTiny);
+}
+
+.total__label {
+  display: none;
+}
+
+.total__price {
+  display: none;
+}
+
+.emptystate {
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+  margin-top: var(--bigSpacer);
+  text-align: center;
+}
+
+.emptystate__content {
+  padding-top: var(--smallSpacer);
+  font-size: var(--fontSizesmall);
+  color: var(--greyColor);
+}
